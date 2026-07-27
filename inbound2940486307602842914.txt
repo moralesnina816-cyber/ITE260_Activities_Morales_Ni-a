@@ -1,0 +1,12 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+course = input("Enter your course: ")
+section = input("Enter your section: ")
+food = input("Enter your favorite food: ")
+
+print("===== USER PROFILE =====")
+print("Name:", "Niña Morales")
+print("Age:", 18)
+print("Course:", "BSIT")
+print("Section:", "1BSIT-S10")
+print("Favorite Food:", "Adobo")
