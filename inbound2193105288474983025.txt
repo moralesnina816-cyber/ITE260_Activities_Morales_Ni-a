@@ -1,0 +1,7 @@
+print("=====STUDENT INFORMATION=====")
+print("Name: Morales,Niña")
+print("Age: 18")
+print("Course: Bachelor of Science in Information Technology")
+print("Section: 1BSIT-S10")
+print("Adress: Purok 5,Batitang,Zaragoza,Nueva Ecija,3110")
+print("Favorite Hobby: Cooking,Watching k-dramas,reading")
